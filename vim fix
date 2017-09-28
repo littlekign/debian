@@ -1,0 +1,3 @@
+UltiSnips requires py >= 2.7 or py3
+
+aptitude install vim-nox
